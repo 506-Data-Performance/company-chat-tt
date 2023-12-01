@@ -90,6 +90,7 @@ const Layout = () => {
               className={styles.headerIcon}
               aria-hidden="true"
             />
+
             <Link to="/" className={styles.headerTitleContainer}>
               <h1 className={styles.headerTitle}>CompanyGPT TT Prototype</h1>
             </Link>
